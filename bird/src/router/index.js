@@ -25,3 +25,7 @@ const router = new VueRouter({
 })
 
 export default router
+
+
+
+console.log("行路")
