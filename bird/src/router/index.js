@@ -4,6 +4,7 @@ import Home from "../views/Home.vue";
 
 Vue.use(VueRouter);
 console.log("我是你爸爸");
+console.log("我是你得不到的爸爸");
 const routes = [
   {
     path: "/",
@@ -25,7 +26,6 @@ const router = new VueRouter({
   routes,
 });
 
-export default router
+export default router;
 
-
-console.log(666666)
+console.log(666666);
