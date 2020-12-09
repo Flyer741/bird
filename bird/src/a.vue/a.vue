@@ -5,7 +5,5 @@
 </style>
 
 <script>
-export default {
-
-}
+console.log(12321)
 </script>
